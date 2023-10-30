@@ -1,0 +1,21 @@
+{
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  },
+  "name": "snowboard-forpelabolas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+ },
+  "author": "francisco nino",
+  "license": "ISC",
+  "description": "winter sports for people with not too much money"
+}
