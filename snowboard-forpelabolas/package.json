@@ -9,7 +9,7 @@
   },
   "name": "snowboard-forpelabolas",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "lite": "lite-server",
     "start": "npm run lite",
